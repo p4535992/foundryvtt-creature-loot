@@ -338,7 +338,9 @@
     "TextEditor": true,
     "WebRTC": true,
     "ui": true,
-    "DND5E": true
+    "DND5E": true,
+    "FilePicker": true,
+    "Dialog": true
   }
 }
 
